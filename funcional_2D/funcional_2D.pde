@@ -68,4 +68,4 @@ while(y0 >= 0){
     x0 = x0 + width;
   }    
 }
-save("A_sanguineum_2D.tiff");
+//save("A_sanguineum_2D.tiff");
